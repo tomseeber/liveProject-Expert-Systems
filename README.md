@@ -23,7 +23,9 @@ One round of the game looks like:
 
 ![1 round](./images/1game_round.png)
 
-### Code
+### Code Solution
+
+
 
 * [Jupyter Notebook](./animal_game%20starter%20solution.ipynb)
 * [Raw Python](./animalgame.py)
